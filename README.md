@@ -8,4 +8,5 @@ the link to my explanation of monkey catching bananas: https://youtu.be/5hixTFB8
 the link to my explanantion of drawing different shapes with variables: https://youtu.be/iY3dUmszUvk <br>
 the link to my explanantion of conditional loop soccer ball: https://youtu.be/BpZki9ZiJn8 <br>
 the link to my explanantion of if else of ball movement: https://youtu.be/gdXgAwBm4Qw <br>
-the link to my explanantion of nested if else penguin: https://youtu.be/sJ0saRUYdjE
+the link to my explanantion of nested if else penguin: https://youtu.be/sJ0saRUYdjE <br>
+the link to my explanantion of treasure hunt conditionals: https://youtu.be/325jQdIt8WQ
