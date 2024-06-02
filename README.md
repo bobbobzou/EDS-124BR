@@ -9,4 +9,5 @@ the link to my explanantion of drawing different shapes with variables: https://
 the link to my explanantion of conditional loop soccer ball: https://youtu.be/BpZki9ZiJn8 <br>
 the link to my explanantion of if else of ball movement: https://youtu.be/gdXgAwBm4Qw <br>
 the link to my explanantion of nested if else penguin: https://youtu.be/sJ0saRUYdjE <br>
-the link to my explanantion of treasure hunt conditionals: https://youtu.be/325jQdIt8WQ
+the link to my explanantion of treasure hunt conditionals: https://youtu.be/325jQdIt8WQ <br>
+the link to my explanantion of abstraction drawing: https://youtu.be/MlgZi7eatTI
