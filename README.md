@@ -10,4 +10,5 @@ the link to my explanantion of conditional loop soccer ball: https://youtu.be/Bp
 the link to my explanantion of if else of ball movement: https://youtu.be/gdXgAwBm4Qw <br>
 the link to my explanantion of nested if else penguin: https://youtu.be/sJ0saRUYdjE <br>
 the link to my explanantion of treasure hunt conditionals: https://youtu.be/325jQdIt8WQ <br>
-the link to my explanantion of abstraction drawing: https://youtu.be/MlgZi7eatTI
+the link to my explanantion of abstraction drawing: https://youtu.be/MlgZi7eatTI <br>
+the link to my explanantion of country names using list: https://youtu.be/Oh5PN7kumOI
